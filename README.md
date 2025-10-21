@@ -5,7 +5,6 @@ It highlights practical experience in **systems programming, infrastructure auto
 Each project links to its source repository and summarizes its purpose and outcomes.
 
 ---
-**Quick Access:** [DevOps](#-devops--infrastructure) • [Systems](#-systems-programming-c--c) • [Algorithms](#-algorithms--learning) • [Utilities](#-utilities--tools-python--bash)
 
 
 ## DevOps & Infrastructure
