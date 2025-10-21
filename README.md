@@ -52,5 +52,5 @@ Lightweight automation scripts and monitoring utilities.
 
 ---
 
-📫 **Connect with me:**  
+**Connect with me:**  
 [Portfolio](https://yahya-elboukili.com) • [ LinkedIn](https://www.linkedin.com/in/yahia-elboukili/) • [Email](mailto:yahya.elboukili1@gmail.com)
